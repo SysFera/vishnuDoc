@@ -6187,7 +6187,7 @@ values can be obtained using the vishnu_list_machine command).
 The src parameter must be provided in the form 'machine_id:path' (the machine_id
 values can be obtained using the vishnu_list_machine command) or 'path' only if the file is on the local system.
 The dest parameter must be provided in a similar way. Note that one of the two locations at least must be a remote location,
-i.e. a local copy cannot be handled by this command.
+i.e. a local copy cannot be handled by this command. You can define the transfer timeout using the vishnu global option 'VISHNU_TRANSFER_TIMEOUT'
 </para>
       </refsect1>
       <refsect1 id="options">
@@ -11245,7 +11245,7 @@ values can be obtained using the vishnu_list_machine command).
 The src parameter must be provided in the form 'machine_id:path' (the machine_id
 values can be obtained using the vishnu_list_machine command) or 'path' only if the file is on the local system.
 The dest parameter must be provided in a similar way. Note that one of the two locations at least must be a remote location,
-i.e. a local copy cannot be handled by this command.
+i.e. a local copy cannot be handled by this command. You can define the transfer timeout using the vishnu global option 'VISHNU_TRANSFER_TIMEOUT'
 </para>
       </refsect1>
       <refsect1 id="arguments">
@@ -16588,7 +16588,7 @@ values can be obtained using the vishnu_list_machine command).
 The src parameter must be provided in the form 'machine_id:path' (the machine_id
 values can be obtained using the vishnu_list_machine command) or 'path' only if the file is on the local system.
 The dest parameter must be provided in a similar way. Note that one of the two locations at least must be a remote location,
-i.e. a local copy cannot be handled by this command.
+i.e. a local copy cannot be handled by this command. You can define the transfer timeout using the vishnu global option 'VISHNU_TRANSFER_TIMEOUT'
 </para>
       </refsect1>
       <refsect1 id="arguments">
